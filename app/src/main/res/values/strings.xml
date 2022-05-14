@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Client List</string>
+    <string name="second_fragment_label">Add Client</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="user_icon">User Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="name">Name</string>
+    <string name="lat">Latitude</string>
+    <string name="lng">Longitude</string>
+    <string name="add_client">Add Client</string>
+    <string name="add_client_header">Add a new Client</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
